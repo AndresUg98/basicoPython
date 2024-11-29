@@ -15,3 +15,5 @@ fullName = lambda name,lastName : f'Full name is {name.title()} {lastName.title(
 text = fullName("andres","ugarte")
 
 print(text)
+
+
