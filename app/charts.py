@@ -1,6 +1,6 @@
-# %%
+
 import matplotlib.pyplot as plt #libreria para hacer graficas, recuerda que esta se debe instalar
-# %%
+
 #Funcion para generar grafica
 
 def generateBarChart(labels, values):
